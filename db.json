@@ -1,0 +1,16 @@
+{
+    "flutterblog":[
+        {
+            "id" : 1,
+            "title": "Apa itu Flutter",
+            "author": "Dio O Rovelino",
+            "text": "Flutter itu blablablabla masih bingung njer"
+        },
+        {
+            "id" : 2,
+            "title": "Apa itu Flutter",
+            "author": "Dio O Rovelino",
+            "text": "Flutter itu blablablabla masih bingung njer"
+        }
+    ]
+  }
