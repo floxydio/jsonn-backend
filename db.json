@@ -12,5 +12,25 @@
             "author": "Dio O Rovelino",
             "text": "Flutter itu blablablabla masih bingung njer"
         }
+    ],
+    "products": [
+        {
+            "id" : 1,
+            "title": "Tas GUCCI",
+            "harga": 150.000,
+            "stok": 5
+        },
+        {
+            "id" : 2,
+            "title": "Jaket Vans",
+            "harga": 350.000,
+            "stok": 3
+        },
+        {
+            "id" : 3,
+            "title": "Topi Barcelona",
+            "harga": 50.000,
+            "stok": 10
+        }
     ]
   }
