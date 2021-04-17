@@ -17,19 +17,19 @@
         {
             "id" : 1,
             "title": "Tas GUCCI",
-            "harga": 150.000,
+            "harga": 150000,
             "stok": 5
         },
         {
             "id" : 2,
             "title": "Jaket Vans",
-            "harga": 350.000,
+            "harga": 350000,
             "stok": 3
         },
         {
             "id" : 3,
             "title": "Topi Barcelona",
-            "harga": 50.000,
+            "harga": 50000,
             "stok": 10
         }
     ]
